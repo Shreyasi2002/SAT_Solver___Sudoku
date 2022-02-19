@@ -108,3 +108,8 @@ optional arguments:
                         runs the sat solver over all files in the input folder (provide only the
                         folder name)
 ```
+
+
+# Sudoku Pair Solver and Generator
+
+The k-dimensional Sudoku Puzzle Pair Solver and Generator can be found <a href="https://github.com/Shreyasi2002/SAT_Solver___Sudoku/tree/main/Sudoku%20Solver%20and%20Generator">here</a>.
