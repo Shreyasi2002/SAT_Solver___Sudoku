@@ -14,3 +14,4 @@ The k-sudoku puzzle pair generator must return a sudoku pair which is maximal (h
 
 We can reduce the problem of solving Sudokus to the propositional satisfiability problem and the workflow looks like this –
 
+<img src="Sudoku Solver and Generator/Sudoku Solver Workflow.png"/>
