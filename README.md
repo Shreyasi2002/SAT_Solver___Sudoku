@@ -1,4 +1,4 @@
-# SAT Solver – DPLL
+# SAT Solver – DPLL Algorithm
 
 
 ## Implementation
